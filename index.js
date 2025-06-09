@@ -61,7 +61,6 @@ boxesData.forEach((data, index) => {
   `;
 
   accordion.appendChild(box);
-  console.log(accordion);
 });
 
 // Accordion & Total update logic
